@@ -1,10 +1,10 @@
-GET http://localhost:4000/weather?city=london
+GET http://localhost:4000/weather?city=tanuku
 
-#example result type
+#example result 
 # {
-#   "location": "string",
-#   "temperature": number,
-#   "weather_descriptions": "string",
-#   "wind_speed": number,
-#   "humidity": number
+# "location": "Tanuku",
+# "temperature": 26,
+# "weather_descriptions": "Overcast ",
+# "wind_speed": 12,
+# "humidity": 90
 # }
