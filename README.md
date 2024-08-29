@@ -19,6 +19,7 @@ A simple Node.js application that fetches and displays weather information based
 ```
 Example API Call
 GET http://localhost:3000/weather?city=tanuku
+Example Result :
 {
     "location": "Tanuku",
     "temperature": 26,
